@@ -15,5 +15,6 @@ public class Main {
         System.out.println(new Date());
         System.out.println("hot-fix...");
         System.out.println("master...");
+        System.out.println("yahoo!");
     }
 }
