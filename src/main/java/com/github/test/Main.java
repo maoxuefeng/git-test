@@ -13,6 +13,7 @@ public class Main {
         System.out.println("hello git2");
         System.out.println("hello branch");
         System.out.println(new Date());
+        System.out.println("hot-fix...");
         System.out.println("master...");
     }
 }
