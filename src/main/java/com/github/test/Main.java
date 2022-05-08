@@ -1,5 +1,7 @@
 package com.github.test;
 
+import java.util.Date;
+
 /**
  * @author maoxuefeng
  * @create 2022-05-09 上午 12:02
@@ -10,5 +12,6 @@ public class Main {
         System.out.println("hello git!");
         System.out.println("hello git2");
         System.out.println("hello branch");
+        System.out.println(new Date());
     }
 }
